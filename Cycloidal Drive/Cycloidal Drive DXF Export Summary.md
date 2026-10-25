@@ -1,0 +1,20 @@
+# 1 Cycloidal Drive DXF Export Summary
+- 2 Export Timestamp: 20260625-173521
+- 3 Profile Export Mode: Current profile
+- 4
+- 5 Drive Parameters
+- 6 Fixed Ring Diameter: 95
+- 7 Number of External Pins: 9
+- 8 Number of Lobes: 8
+- 9 External Pin Diameter: 9
+- 10 Number of Output Pins: 5
+- 11 Output Pin Diameter: 8
+- 12 Output Disk Diameter: 60.48
+- 13 Eccentricity: 1.2
+- 14 Camshaft Hole Diameter: 38
+- 15 Thickness: 5
+- 16 Phase: 3
+- 17
+- 18 Profile Modification Inputs
+- 19 Position Modification: 0
+- 20 Radius Modification: 0
