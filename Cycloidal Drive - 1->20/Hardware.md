@@ -1,4 +1,6 @@
 # HARDWARE
+- Torque Multiplier 1 Nm -> 20 Nm
+
 ## 3d printer
 - Bed size at the smallest 140 x 104 x 30
 - Recommended tolerance +- 0.2mm
@@ -12,3 +14,6 @@
 
 ## DIMENSIONS
 - 64 x 64 x 19.5
+
+## BOM
+
