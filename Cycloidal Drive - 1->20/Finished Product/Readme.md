@@ -1,2 +1,4 @@
-[[Video] Finished Product Demonstration](https://github.com)
+<video src="https://github.com" width="100%" controls>
+  Your browser does not support the video tag.
+</video>
 
